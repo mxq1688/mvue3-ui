@@ -1,0 +1,17 @@
+node_modules/
+*/node_modules
+*/*/node_modules
+*/*/*/node_modules
+*/*/*/*/node_modules
+*/*/*/*/*/node_modules
+dist/
+pnpm-lock.yaml
+lib/
+wdist
+es
+lib
+types
+theme-style
+comp-lib
+cache
+.DS_Store
